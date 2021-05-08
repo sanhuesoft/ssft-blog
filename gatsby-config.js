@@ -25,13 +25,17 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `Facebook`,
+            url: `https://www.facebook.com/sanhuesoft/`,
           },
           {
             name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            url: `https://www.instagram.com/sanhuesoft/`,
           },
+          {
+            name: `Youtube`,
+            url: `https://www.youtube.com/channel/UCfovR-R47efIJ8JC0uF6CKQ`
+          }
         ],
       },
     },
